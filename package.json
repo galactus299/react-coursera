@@ -1,0 +1,24 @@
+{
+  "name": "react-coursera",
+  "version": "1.0.0",
+  "description": "test and practice online coursera fullstack webdev university of hongkong",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galactus299/react-coursera.git"
+  },
+  "author": "Shayan Babar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galactus299/react-coursera/issues"
+  },
+  "homepage": "https://github.com/galactus299/react-coursera#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
