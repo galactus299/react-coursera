@@ -35,3 +35,24 @@ body{
 .navbar-dark {
     background-color: #512DA8;
 }
+.card-header{
+    background-color: #fdc02f;
+    color: floralwhite;
+    
+}
+.row-content{
+    padding-top: 25px;
+}
+.btn-block{
+    background-color:#fdc02f ;
+}
+html{
+    scroll-behavior: smooth;  
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
